@@ -1,0 +1,25 @@
+#top{
+position: absolute;
+left: 20%;
+bottom: 20%;
+background-color: blue;
+border-style: solid;
+border-color: crimson;
+border-width:5px;
+width:40% ;
+
+/* margin-left: 50%; */
+/* padding-left: 10%;  */
+}
+#bottom{
+    background-color: rgb(59, 143, 70);
+    border-style: solid;
+    border-color: rgb(233, 35, 8);
+    border-width:5px;
+    width:40% ;
+    margin-top: 20%;
+    margin-left: 50%;
+
+}
+
+h3{font-family: 'Potta One', cursive;}
