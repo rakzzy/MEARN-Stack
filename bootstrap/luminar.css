@@ -1,0 +1,28 @@
+.first{
+margin-top: 8%;
+line-height: 30px;
+
+}
+
+.lum_head{
+    color: #5e068a;
+    font-weight: 700;
+}
+span{
+    color: #5e068a99;
+}
+.btn{
+background-color: #5e068a;
+color: cornsilk;
+padding: 16px 27px;
+font-weight: 600;
+margin-top: 21px;
+border-radius: 50px;
+border: 2px solid #5e068a;
+
+}
+
+.btn:hover{
+    background-color: white;
+    color: #5e068a;
+}
